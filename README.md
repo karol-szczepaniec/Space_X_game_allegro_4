@@ -1,1 +1,64 @@
 # Space_X_game_allegro_4
+
+Made by: Karol Szczepaniec
+
+This is a early version of my game.
+
+
+
+In the folder "SPACE X GAME" you launching applications "SPACE X GAME early version.exe"
+
+1. push the enter to go menu
+
+2. Use cursor to to choice
+
+ABOUT: will be informations about how to play, levels, missions etc.
+
+NEW GAME: starts the game. 
+
+you can move using the arrows ( up, down, right and left)
+
+shooting: pres space.
+
+you can shoot to moving enemy.
+
+timer "time play" shows you how many seconds you play.
+
+shot counter, show you how many shoots you gave.
+
+you can't shoot down enemy, sorry for that, I'm coding it right now.
+
+push "P" to pause. Push "P" one more back to game.
+
+if you push ESC, you turn back to main menu.
+
+you can push ESC one more to exit or chice EXIT BUTTON
+
+in exit menu you can use N kry (no entry) or y (entry) or jutst clikc on button.
+
+
+In the folder "Code files" you can look of code.
+
+////////////////////////////////////////////////////////////
+
+TO DO:
+
+I'm going to write using OOP (object orientet programing)
+using class, encapsulations, inheritance, friendship, data abstraction, polymorphism.
+
+
+create levels
+
+many different enemies
+
+collision system
+
+shoot options
+
+damage system 
+
+because my game is in the early development phase.
+
+I hope, however, that you like my project.
+
+
